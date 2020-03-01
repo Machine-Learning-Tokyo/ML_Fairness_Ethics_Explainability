@@ -1,5 +1,15 @@
 # Fairness, Ethics, Explainability in AI and ML
 
+This repository provides
+
+- resources
+- tools
+- notebooks
+
+for Fairness, Ethics, Explainability in AI and ML.
+
+# Resources
+
 ## [Book] Fairness and machine learning – Limitations and Opportunities
 ### By Solon Barocas, Moritz Hardt, Arvind Narayanan
 
