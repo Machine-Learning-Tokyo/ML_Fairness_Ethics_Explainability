@@ -16,6 +16,7 @@ for Fairness, Ethics, Explainability in AI and ML.
   - [Courses](#courses)
   - [Blog posts](#blog-posts)
 - [Tools](#tools)
+  - [Lime](#lime)
 
 
 # Resources
