@@ -53,6 +53,15 @@ for Fairness, Ethics, Explainability in AI and ML.
 We explore the powerful interfaces that arise when you combine them — 
 and the rich structure of this combinatorial space."
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/distillpub.png" width="800"></p>](https://distill.pub/2018/building-blocks/)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/distillpub.png" width="600"></p>](https://distill.pub/2018/building-blocks/)
 
 # Tools
+
+## Lime
+
+Lime is about explaining what machine learning models are doing. It supports explaining individual predictions for text classifiers or classifiers that act on tables (numpy arrays of numerical or categorical data) or images, with a package called lime (short for **local interpretable model-agnostic explanations**). Lime is based on the work presented in the paper ["Why Should I Trust You?": Explaining the Predictions of Any Classifier" (2016)](https://arxiv.org/abs/1602.04938) by Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin. 
+
+Source: [Lime, GitHub](https://github.com/marcotcr/lime)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/lime.png" width="600"></p>](https://github.com/marcotcr/lime
+)
