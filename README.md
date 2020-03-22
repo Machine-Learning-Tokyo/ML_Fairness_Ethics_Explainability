@@ -1,12 +1,6 @@
 # Fairness, Ethics, Explainability in AI and ML
 
-This repository provides
-
-- resources
-- tools
-- notebooks
-
-for Fairness, Ethics, Explainability in AI and ML.
+This repository provides resources, tools and notebooks for Fairness, Ethics, Explainability in AI and ML.
 
 ## Contents
 
@@ -17,6 +11,8 @@ for Fairness, Ethics, Explainability in AI and ML.
   - [Blog posts](#blog-posts)
 - [Tools](#tools)
   - [Lime](#lime)
+  - [Captum](#captum)
+ - [Notebooks](https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/tree/master/notebooks)
 
 
 # Resources
@@ -66,3 +62,15 @@ Source: [Lime, GitHub](https://github.com/marcotcr/lime)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/lime.png" width="600"></p>](https://github.com/marcotcr/lime
 )
+
+## Captum
+Model Interpretability for PyTorch. [[Tutorials]](https://captum.ai/tutorials/IMDB_TorchText_Interpret)
+
+- Supports interpretability of models across modalities including vision, text, and more
+- Supports most types of PyTorch models and can be used with minimal modification to the original neural network
+- Open source, generic library for interpretability research. Easily implement and benchmark new algorithms
+
+Source: [Captum](https://captum.ai/tutorials/Bert_SQUAD_Interpret)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/captum.png" width="600"></p>](https://captum.ai/tutorials/IMDB_TorchText_Interpret)
+
