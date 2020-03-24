@@ -12,6 +12,7 @@ This repository provides resources, tools and notebooks for Fairness, Ethics, Ex
 - [Tools](#tools)
   - [Lime](#lime)
   - [Captum](#captum)
+  - [AllenNLP Interpret](#allennlp-interpret)
  - [Notebooks](https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/tree/master/notebooks)
 
 
@@ -73,4 +74,16 @@ Model Interpretability for PyTorch. [[Tutorials]](https://captum.ai/tutorials/IM
 Source: [Captum](https://captum.ai/tutorials/Bert_SQUAD_Interpret)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/captum.png" width="600"></p>](https://captum.ai/tutorials/IMDB_TorchText_Interpret)
+
+## AllenNLP Interpret
+A Framework for Explaining Predictions of NLP Models by Eric Wallace, Jens Tuyls, Junlin Wang, Sanjay Subramanian,
+Matt Gardner, and Sameer Singh
+
+AllenNLP Interpret is a toolkit built on top of AllenNLP for interactive model interpretations. The toolkit makes it easy to apply gradient-based saliency maps and adversarial attacks to new models, as well as develop new interpretation methods. It contains three components: a suite of interpretation techniques applicable to most models, APIs for developing new interpretation methods (e.g., APIs to obtain input gradients), and reusable front-end components for visualizing the interpretation results.
+
+Source: [AllenNLP Interpret](https://allennlp.org/interpret)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/allennlp.png" width="600"></p>](https://allennlp.org/interpret)
+
+
 
