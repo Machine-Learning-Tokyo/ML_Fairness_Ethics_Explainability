@@ -13,6 +13,7 @@ This repository provides resources, tools and notebooks for Fairness, Ethics, Ex
   - [Lime](#lime)
   - [Captum](#captum)
   - [AllenNLP Interpret](#allennlp-interpret)
+  - [ELI5](https://eli5.readthedocs.io/en/latest/index.html)
  - [Notebooks](https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/tree/master/notebooks)
 
 
@@ -85,5 +86,12 @@ Source: [AllenNLP Interpret](https://allennlp.org/interpret)
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/allennlp.png" width="600"></p>](https://allennlp.org/interpret)
 
+## ELI5
+ELI5 is a Python library which allows to visualize and debug various Machine Learning models using unified API. It has built-in support for several ML frameworks and provides a way to explain black-box models.
+
+- Source: [ELI5 Documentation](https://eli5.readthedocs.io/en/latest/index.html)
+- Tutorials: [Notebook](https://nbviewer.jupyter.org/github/danbochman/Open-Source-Spotlight/blob/master/ELI5/ELI5.ipynb)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/eli.png" width="600"></p>](https://allennlp.org/interpret)
 
 
