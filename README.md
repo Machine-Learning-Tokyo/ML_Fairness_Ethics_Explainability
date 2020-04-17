@@ -46,6 +46,8 @@ This repository provides resources, tools and notebooks for Fairness, Ethics, Ex
 
 ## Blog posts
 
+### Distill
+
 - [The Building Blocks of Interpretability – distill.pub (2018)](https://distill.pub/2018/building-blocks/)
 
 "Interpretability techniques are normally studied in isolation.
@@ -53,6 +55,15 @@ We explore the powerful interfaces that arise when you combine them — 
 and the rich structure of this combinatorial space."
 
 [<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/distillpub.png" width="600"></p>](https://distill.pub/2018/building-blocks/)
+
+### OpenAI Microscope
+
+OpenAI introduced Microscope – a collection of visualizations of layers and neurons of several common deep learning models that are often studied in interpretability. Microscope makes it easier to analyze the features that form inside these neural networks.
+
+Source: [OpenAI](https://microscope.openai.com/about)
+
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/AI-ML-Newsletter/blob/master/images/openai_microscope.png" width="600"></p>](https://microscope.openai.com/models)
+
 
 # Tools
 
