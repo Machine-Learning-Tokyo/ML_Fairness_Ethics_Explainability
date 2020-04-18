@@ -113,4 +113,4 @@ Google released the ML Fairness Gym (2020), a set of components for building sim
 - "Fairness is not Static: Deeper Understanding of Long Term Fairness via Simulation Studies" [[Paper]](https://github.com/google/ml-fairness-gym/blob/master/papers/acm_fat_2020_fairness_is_not_static.pdf)
 - [[ML Fairness GitHub repository]](https://github.com/google/ml-fairness-gym/)
 
-[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/fairness_gif.png" width="600"></p>](https://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html)
+[<p align="center"><img src="https://github.com/Machine-Learning-Tokyo/ML_Fairness_Ethics_Explainability/blob/master/images/fairness_gym.gif" width="600"></p>](https://ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html)
